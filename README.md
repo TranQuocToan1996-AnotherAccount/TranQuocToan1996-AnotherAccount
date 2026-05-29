@@ -1,5 +1,5 @@
 ### Hi folks 👋. I'm Tran Quoc Toan (Dom). I loves programming. Currently working as Golang dev!
-This is my new account (TranQuocToan1996-AnotherAccount ) github after my old one (TranQuocToan1996) got blocked.
+This is my new account (TranQuocToan1996-AnotherAccount) github after my old one (TranQuocToan1996) got blocked.
 <br/>
 <a href="https://github.com/TranQuocToan1996/TranQuocToan1996" target="_blank">
   TranQuocToan1996
@@ -20,7 +20,7 @@ Shall we begin to code? Please view my CV in below:
 ### 💻 Developer • Learning • Building
 
 ## 🚀 Profile Summary Card
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranQuocToan1996&theme=default)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranQuocToan1996-AnotherAccount&theme=default)
 
 ## 👁️ Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=TranQuocToan1996&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=TranQuocToan1996-AnotherAccount&color=blue&style=flat)
