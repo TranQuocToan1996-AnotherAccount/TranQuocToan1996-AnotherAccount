@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi folks 👋. I'm Tran Quoc Toan (Dom). I loves programming. Currently working as Golang dev!
+Shall we begin to code? Please view my CV in below:
 
-<!--
-**TranQuocToan1996-AnotherAccount/TranQuocToan1996-AnotherAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://drama-ton-that-vu.s3.us-east-1.amazonaws.com/Tran_Quoc_Toan__Software_Solution_Engineer_CV/Tra%CC%82%CC%80n+Quo%CC%82%CC%81c+Toa%CC%89n_SolutionSoftwareEngineer.docx.pdf" target="_blank">
+  Trần Quốc Toản Resume
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 💻 Developer • Learning • Building
+
+## 🚀 Profile Summary Card
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranQuocToan1996&theme=default)
+
+## 👁️ Visitor Count
+![Visitors](https://komarev.com/ghpvc/?username=TranQuocToan1996&color=blue&style=flat)
