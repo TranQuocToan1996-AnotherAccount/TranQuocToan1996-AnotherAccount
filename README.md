@@ -11,10 +11,7 @@ Shall we begin to code? Please view my CV in below:
   Trần Quốc Toản Resume: Link S3 legal hold
 </a>
 <br/>
-<a href="https://dxp91l8w7ygc5.cloudfront.net/tran-quoc-toan-29-10-1996-solution-engineer-cv.pdf " target="_blank">
-  Trần Quốc Toản Resume: Link CDN CloudFront AWS
-</a>
-<br/>
+
 
 
 ### 💻 Developer • Learning • Building
